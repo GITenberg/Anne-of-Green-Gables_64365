@@ -1,5 +1,5 @@
 _repo: Anne-of-Green-Gables_64365
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Claus, W. A. J.
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Claus, M. A.
     gutenberg_agent_id: '52864'
     url: http://www.gutenberg.org/2009/agents/52864
+covers:
+- cover_type: archival
+  image_path: 64365-h/images/cover.jpg
 creator:
   author:
     agent_name: Montgomery, L. M. (Lucy Maud)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64365#Anne-of-Green-Gables
 gutenberg_issued: '2021-01-21'
 gutenberg_type: Text
 identifiers:
