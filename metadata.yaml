@@ -1,0 +1,34 @@
+_repo: Anne-of-Green-Gables_64365
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Claus, W. A. J.
+    gutenberg_agent_id: '52865'
+    url: http://www.gutenberg.org/2009/agents/52865
+  - agent_name: Claus, M. A.
+    gutenberg_agent_id: '52864'
+    url: http://www.gutenberg.org/2009/agents/52864
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - MacDonald, Lucy Maud Montgomery
+    - Montgomery, Lucy Maud
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_issued: '2021-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Anne of Green Gables
+url: http://www.gutenberg.org/ebooks/64365
